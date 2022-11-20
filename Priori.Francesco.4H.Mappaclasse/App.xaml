@@ -1,0 +1,9 @@
+﻿<Application x:Class="Priori.Francesco._4H.Mappaclasse.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Priori.Francesco._4H.Mappaclasse"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
